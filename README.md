@@ -1,7 +1,7 @@
 # Yuki Okuda (@yag_ays)
 
 - Machine Learning Enginner at [Uibe, inc.](https://ubie.life/)
-  - [ユビーAI受診相談](https://ubie.app/),  [Ubie AI Symptom Checker](https://sg.ubie.app/)
+  - [ユビーAI受診相談](https://ubie.app/),  [Ubie AI Symptom Checker](https://ubiehealth.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagays)](https://github.com/anuraghazra/github-readme-stats)
 
